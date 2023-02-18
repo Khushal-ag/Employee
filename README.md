@@ -48,16 +48,16 @@
 
 - Fetch latest source code from master branch.
 
-```js
+```console
 khushal-ag@arch:~$ git clone https://github.com/Khushal-ag/Employee
 khushal-ag@arch:~$ cd Employee
 ```
 
 - Run the app with VS Code or with the command line:
 
-```js
-khushal-ag@arch:~/SuperMarket$ npm i
-khushal-ag@arch:~/SuperMarket$ node index.js
+```console
+khushal-ag@arch:~/Employee$  npm i
+khushal-ag@arch:~/Employee$  node index.js
 ```
 
 <!----------------------------------{ Labels }--------------------------------->
