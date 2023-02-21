@@ -2,7 +2,7 @@ const mongo = require('mongoose')//npm i mongoose
 const Employee = require('./Employee')
 const { esname, elname, salary, department, designation, manager, project } = require('./helper')
 
-const dbname = 'comp'
+const dbname = 'company'
 const docNum = 25
 
 mongo.set('strictQuery', false)
